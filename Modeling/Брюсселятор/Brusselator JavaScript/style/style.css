@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+/*
+#id .class tag {
+  
+}
+*/
+
+#Panel1 {
+  margin: auto;
+  /*background: #ff0000;*/
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+}
+
+#PaintBox1 {
+  /*height: 500px;*/
+  /*width: 500px;*/
+}
+
+.panel {
+  margin: auto;
+  background: #bbb; 
+}
+
+.button {
+  border: 1px solid #000;
+}
+
+.memo {
+  color: #000;
+  background: #fff;
+  border: 1px solid #000;
+  position: absolute;
+  outline: none;
+  resize: none;
+}
+
+.paintbox {
+
+}
+

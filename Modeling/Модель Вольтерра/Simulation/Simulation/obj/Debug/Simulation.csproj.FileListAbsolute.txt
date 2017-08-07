@@ -1,0 +1,18 @@
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\bin\Debug\Simulation.exe.config
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\bin\Debug\Simulation.exe
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\bin\Debug\Simulation.pdb
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\obj\Debug\Simulation.Form1.resources
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\obj\Debug\Simulation.exe
+c:\users\lithi\documents\visual studio 2015\Projects\Simulation\Simulation\obj\Debug\Simulation.pdb
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\obj\Debug\Simulation.exe
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\obj\Debug\Simulation.pdb
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\bin\Debug\Simulation.exe
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\bin\Debug\Simulation.pdb
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\obj\Debug\Simulation.Form1.resources
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\lithi\Dropbox\University\Математическое моделирование\!\3. Модель Вольтерра\Simulation\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
