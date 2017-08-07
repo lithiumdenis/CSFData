@@ -1,0 +1,18 @@
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\bin\x86\Debug\Наноструктуры.exe.config
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\bin\x86\Debug\Наноструктуры.exe
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\bin\x86\Debug\Наноструктуры.pdb
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.Form1.resources
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.Properties.Resources.resources
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.csproj.GenerateResource.Cache
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.exe
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.pdb
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\bin\x86\Debug\Наноструктуры.exe.config
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.exe
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.pdb
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\bin\x86\Debug\Наноструктуры.exe
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\bin\x86\Debug\Наноструктуры.pdb
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.Form1.resources
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.Properties.Resources.resources
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\x86\Debug\Наноструктуры.csproj.GenerateResource.Cache

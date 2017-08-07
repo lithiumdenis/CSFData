@@ -1,0 +1,12 @@
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\bin\Debug\Наноструктуры.exe.config
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\bin\Debug\Наноструктуры.exe
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\bin\Debug\Наноструктуры.pdb
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.Form1.resources
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.Properties.Resources.resources
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.csproj.GenerateResource.Cache
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.exe
+C:\Users\lithi\Desktop\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.pdb
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\bin\Debug\Наноструктуры.exe.config
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.exe
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Debug\Наноструктуры.pdb

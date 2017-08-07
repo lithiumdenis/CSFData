@@ -1,0 +1,9 @@
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\bin\Release\Наноструктуры.exe.config
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\bin\Release\Наноструктуры.exe
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\bin\Release\Наноструктуры.pdb
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Release\Наноструктуры.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Release\Наноструктуры.Form1.resources
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Release\Наноструктуры.Properties.Resources.resources
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Release\Наноструктуры.csproj.GenerateResource.Cache
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Release\Наноструктуры.exe
+C:\Users\lithi\Dropbox\University\Математическое моделирование наноструктур\Наноструктуры\Наноструктуры\obj\Release\Наноструктуры.pdb
