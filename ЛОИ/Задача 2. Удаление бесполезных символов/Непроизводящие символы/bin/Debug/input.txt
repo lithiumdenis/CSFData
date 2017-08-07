@@ -1,0 +1,17 @@
+3 5 7
+a
+f
+s
+A
+B
+E
+F
+S
+S->AS
+S->BS
+S->s
+E->EF
+E->FF
+A->a
+F->f
+S

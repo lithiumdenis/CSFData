@@ -1,0 +1,14 @@
+3 4 5
+a
+b
+c
+A
+B
+C
+S
+S->aC
+S->A
+A->cAB
+B->b
+C->a
+S

@@ -1,0 +1,14 @@
+C:\Users\lithi\Desktop\Анализатор\Анализатор\bin\Debug\Анализатор.exe.config
+C:\Users\lithi\Desktop\Анализатор\Анализатор\bin\Debug\Анализатор.exe
+C:\Users\lithi\Desktop\Анализатор\Анализатор\bin\Debug\Анализатор.pdb
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\MainWindow.g.cs
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\App.g.cs
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор_MarkupCompile.cache
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор_MarkupCompile.lref
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\MainWindow.baml
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор.g.resources
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор.Properties.Resources.resources
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор.csproj.GenerateResource.Cache
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор.exe
+C:\Users\lithi\Desktop\Анализатор\Анализатор\obj\Debug\Анализатор.pdb

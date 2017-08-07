@@ -1,0 +1,21 @@
+﻿<Window x:Class="Анализатор.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Анализатор"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="559.131" Width="894.858" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <RichTextBox x:Name="richTextBox" HorizontalAlignment="Left" Height="478" Margin="10,42,0,0" VerticalAlignment="Top" Width="498" ScrollViewer.CanContentScroll="True" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Block.LineHeight="4">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button x:Name="buttonStart" Content="Выполнить" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="869" Height="27" Click="buttonStart_Click"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="478" Margin="513,42,0,0" VerticalAlignment="Top" Width="366"/>
+
+    </Grid>
+</Window>
