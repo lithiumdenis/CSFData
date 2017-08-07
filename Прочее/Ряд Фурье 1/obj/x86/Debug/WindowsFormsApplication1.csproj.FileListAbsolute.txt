@@ -1,0 +1,32 @@
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\csfs\home$\borodin_a_v\Profile\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Задание №1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Задание №1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Задание №1\bin\Debug\WindowsFormsApplication1.exe
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Задание №1\bin\Debug\WindowsFormsApplication1.pdb
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Задание №1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Задание №1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Задание №1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\Практика\Задание №1 +\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\Практика\Задание №1 +\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\Практика\Задание №1 +\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\Практика\Задание №1 +\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\Практика\Задание №1 +\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\Практика\Задание №1 +\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Denis\Dropbox\ФКН\Алгоритмы ЦОС\Практика\Задание №1 +\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН - сданное\ЦОС\Практика\Задание №1 +\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Dropbox\ФКН - сданное\ЦОС\Практика\Задание №1 +\obj\x86\Debug\WindowsFormsApplication1.pdb

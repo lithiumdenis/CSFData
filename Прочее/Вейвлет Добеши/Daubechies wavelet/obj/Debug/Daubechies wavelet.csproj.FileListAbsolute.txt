@@ -1,0 +1,27 @@
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\bin\Debug\Daubechies wavelet.exe.config
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies_wavelet.Form1.resources
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies_wavelet.Properties.Resources.resources
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\bin\Debug\Daubechies wavelet.exe
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\bin\Debug\Daubechies wavelet.pdb
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.exe
+C:\Users\1\Desktop\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\bin\Debug\Daubechies wavelet.exe.config
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\bin\Debug\Daubechies wavelet.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\bin\Debug\Daubechies wavelet.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies_wavelet.Form1.resources
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies_wavelet.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Daubechies wavelet\Daubechies wavelet\obj\Debug\Daubechies wavelet.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\bin\Debug\Daubechies wavelet.exe.config
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\obj\Debug\Daubechies wavelet.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\obj\Debug\Daubechies wavelet.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\bin\Debug\Daubechies wavelet.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\bin\Debug\Daubechies wavelet.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\obj\Debug\Daubechies wavelet.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\obj\Debug\Daubechies_wavelet.Form1.resources
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\obj\Debug\Daubechies_wavelet.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №9 +\Daubechies wavelet\obj\Debug\Daubechies wavelet.csproj.GenerateResource.Cache

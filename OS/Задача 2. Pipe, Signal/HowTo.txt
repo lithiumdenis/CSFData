@@ -1,0 +1,3 @@
+Проверка: cat file.txt | grep "also"
+gcc 2.c
+./a.out file.txt also

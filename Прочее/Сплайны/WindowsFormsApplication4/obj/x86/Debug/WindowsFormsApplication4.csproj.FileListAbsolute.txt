@@ -1,0 +1,68 @@
+c:\users\evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.dll
+C:\Users\Evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\Evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Evgeny\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\bin\Debug\eyeDetector.exe
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\bin\Debug\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.Properties.Resources.resources
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.exe
+C:\Users\Evgeny\Desktop\!DETECTION\singla\singla\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.exe
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\bin\Debug\eyeDetector.exe
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\bin\Debug\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.Properties.Resources.resources
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.exe
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.Properties.Resources.resources
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\bin\Debug\eyeDetector.exe
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\bin\Debug\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\bin\Debug\AForge.dll
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Evgeny\Desktop\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.exe
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.pdb
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\bin\Debug\eyeDetector.exe
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\bin\Debug\eyeDetector.pdb
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.Properties.Resources.resources
+C:\Users\Denis\Desktop\Новая папка\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.exe
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.pdb
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\bin\Debug\eyeDetector.exe
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\bin\Debug\eyeDetector.pdb
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.Properties.Resources.resources
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №3 +\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+F:\Учёба\ЧМ\Практика\Задача №3\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.exe
+F:\Учёба\ЧМ\Практика\Задача №3\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.pdb
+F:\Учёба\[Бакалавриат ФКН] 3 курс\ЧМ\Практика\Задача №3\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.exe
+F:\Учёба\[Бакалавриат ФКН] 3 курс\ЧМ\Практика\Задача №3\Normal Edition\WindowsFormsApplication4\obj\x86\Debug\eyeDetector.pdb

@@ -1,0 +1,13 @@
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\bin\Debug\Tridiagonal Matrix Algorithm.exe
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\bin\Debug\Tridiagonal Matrix Algorithm.pdb
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\obj\x86\Debug\Tridiagonal Matrix Algorithm.exe
+\\csfs\home$\suhodolov_d_m\Profile\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\obj\x86\Debug\Tridiagonal Matrix Algorithm.pdb
+C:\Users\Denis\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\obj\x86\Debug\Tridiagonal Matrix Algorithm.exe
+C:\Users\Denis\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\obj\x86\Debug\Tridiagonal Matrix Algorithm.pdb
+C:\Users\Denis\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\bin\Debug\Tridiagonal Matrix Algorithm.exe
+C:\Users\Denis\Desktop\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\bin\Debug\Tridiagonal Matrix Algorithm.pdb
+C:\Users\Denis\Dropbox\ФКН\ЦОС\Практика\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\obj\x86\Debug\Tridiagonal Matrix Algorithm.exe
+C:\Users\Denis\Dropbox\ФКН\ЦОС\Практика\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\obj\x86\Debug\Tridiagonal Matrix Algorithm.pdb
+C:\Users\Denis\Dropbox\ФКН\ЦОС\Практика\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\bin\Debug\Tridiagonal Matrix Algorithm.exe
+C:\Users\Denis\Dropbox\ФКН\ЦОС\Практика\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\bin\Debug\Tridiagonal Matrix Algorithm.pdb
+C:\Users\Denis\Dropbox\ФКН\ЦОС\Практика\Tridiagonal Matrix Algorithm\Tridiagonal Matrix Algorithm\obj\x86\Debug\Tridiagonal Matrix Algorithm.csprojResolveAssemblyReference.cache

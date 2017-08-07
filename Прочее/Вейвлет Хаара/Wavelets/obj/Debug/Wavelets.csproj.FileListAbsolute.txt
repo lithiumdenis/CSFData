@@ -1,0 +1,21 @@
+C:\Users\1\Desktop\Wavelets\Wavelets\bin\Debug\Wavelets.exe.config
+C:\Users\1\Desktop\Wavelets\Wavelets\bin\Debug\Wavelets.exe
+C:\Users\1\Desktop\Wavelets\Wavelets\bin\Debug\Wavelets.pdb
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.Form1.resources
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.Properties.Resources.resources
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.exe
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\bin\Debug\Wavelets.exe.config
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\obj\Debug\Wavelets.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\obj\Debug\Wavelets.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\bin\Debug\Wavelets.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\bin\Debug\Wavelets.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\obj\Debug\Wavelets.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\obj\Debug\Wavelets.Form1.resources
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\obj\Debug\Wavelets.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Wavelets\Wavelets\obj\Debug\Wavelets.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №8 +\Wavelets\bin\Debug\Wavelets.exe.config
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №8 +\Wavelets\obj\Debug\Wavelets.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №8 +\Wavelets\obj\Debug\Wavelets.pdb

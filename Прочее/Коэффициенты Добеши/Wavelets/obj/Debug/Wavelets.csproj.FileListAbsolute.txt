@@ -1,0 +1,18 @@
+C:\Users\1\Desktop\Wavelets\Wavelets\bin\Debug\Wavelets.exe.config
+C:\Users\1\Desktop\Wavelets\Wavelets\bin\Debug\Wavelets.exe
+C:\Users\1\Desktop\Wavelets\Wavelets\bin\Debug\Wavelets.pdb
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.exe
+C:\Users\1\Desktop\Wavelets\Wavelets\obj\Debug\Wavelets.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7\Wavelets\bin\Debug\Wavelets.exe.config
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7\Wavelets\obj\Debug\Wavelets.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7\Wavelets\obj\Debug\Wavelets.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7\Wavelets\bin\Debug\Wavelets.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7\Wavelets\bin\Debug\Wavelets.pdb
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7\Wavelets\obj\Debug\Wavelets.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7 +\Wavelets\bin\Debug\Wavelets.exe.config
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7 +\Wavelets\obj\Debug\Wavelets.exe
+C:\Users\1\Dropbox\ФКН\ЦОС\Практика\Задание №7 +\Wavelets\obj\Debug\Wavelets.pdb
+C:\Users\1\Dropbox\ФКН - сданное\ЦОС\Практика\Задание №7 +\Wavelets\bin\Debug\Wavelets.exe.config
+C:\Users\1\Dropbox\ФКН - сданное\ЦОС\Практика\Задание №7 +\Wavelets\obj\Debug\Wavelets.exe
+C:\Users\1\Dropbox\ФКН - сданное\ЦОС\Практика\Задание №7 +\Wavelets\obj\Debug\Wavelets.pdb

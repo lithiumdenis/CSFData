@@ -1,0 +1,35 @@
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\bin\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\bin\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Release\eyeDetector.Properties.Resources.resources
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\!DETECTION\2 реализация\singla\WindowsFormsApplication4\obj\x86\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\!DETECTION\Реализация через амплитуды\реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\!DETECTION\Реализация через амплитуды\реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Реализация через амплитуды\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Реализация через амплитуды\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\bin\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\bin\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.Properties.Resources.resources
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.dll
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.Math.dll
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.xml
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.Math.xml
+C:\Users\Evgeny\Desktop\KocherginEvgeny\Движение глаз\Реализация программы\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\bin\Release\eyeDetector.exe
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\bin\Release\eyeDetector.pdb
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.dll
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.Math.dll
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.xml
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\bin\Release\AForge.Math.xml
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\obj\x86\Release\eyeDetector.Properties.Resources.resources
+C:\Users\Evgeny\Desktop\Реализация программы\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.GenerateResource.Cache

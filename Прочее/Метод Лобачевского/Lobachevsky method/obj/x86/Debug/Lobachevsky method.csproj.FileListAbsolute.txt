@@ -1,0 +1,28 @@
+C:\Users\Denis\Desktop\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.exe
+C:\Users\Denis\Desktop\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.pdb
+C:\Users\Denis\Desktop\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.exe
+C:\Users\Denis\Desktop\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.pdb
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.exe
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.pdb
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.exe
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.pdb
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.exe
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.pdb
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.exe
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.pdb
+C:\Users\Denis\Dropbox\ФКН\Численные методы\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.exe
+C:\Users\Denis\Dropbox\ФКН\ЧМ\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.pdb
+C:\Users\1\Dropbox\ФКН\ЧМ\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.exe
+C:\Users\1\Dropbox\ФКН\ЧМ\Практика\Задача №2 +\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.pdb
+F:\Учёба\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.exe
+F:\Учёба\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.pdb
+F:\Учёба\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.exe
+F:\Учёба\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.pdb
+F:\Учёба\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.csprojResolveAssemblyReference.cache
+F:\Учёба\[Бакалавриат ФКН] 3 курс\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.exe
+F:\Учёба\[Бакалавриат ФКН] 3 курс\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.pdb
+F:\Учёба\[Бакалавриат ФКН] 3 курс\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.exe
+F:\Учёба\[Бакалавриат ФКН] 3 курс\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\bin\Debug\Lobachevsky method.pdb
+F:\Учёба\[Бакалавриат ФКН] 3 курс\ЧМ\Практика\Задача №2\Lobachevsky method\Lobachevsky method\obj\x86\Debug\Lobachevsky method.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+ring summer also
+You can also use a pipe 
+cat meow also pizza
+to send the data to a 
+different program. 
+For example to view 
+two files in sequence line by line using the less command
+, you would use the following command also
+hidish hidish
