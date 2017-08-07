@@ -1,0 +1,65 @@
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.Properties.Resources.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.MainForm.resources
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.MainForm.resources
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.Properties.Resources.resources
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LithiumDenis\Desktop\поверхности\QuadraticSurfaces\QuadraticSurfaces\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.MainForm.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.Properties.Resources.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces С новой отрисовкой, но косяк при смене фигуры и косяк вращения\QuadraticSurfaces\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.MainForm.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.Properties.Resources.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий, но появляются лишние точки, нет некоторых фигур\QuadraticSurfaces\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.MainForm.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.Properties.Resources.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v1\QuadraticSurfaces\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.MainForm.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.Properties.Resources.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v2 пять цветов окраски, Оси\QuadraticSurfaces\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v3 Локализации, About\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces Рабочий v3 Локализации, About\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.exe
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\bin\Debug\QuadraticSurfaces.pdb
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.MainForm.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\obj\x86\Debug\QuadraticSurfaces.Properties.Resources.resources
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LithiumDenis\Desktop\QuadraticSurfaces v3\QuadraticSurfaces\obj\x86\Debug\GenerateResource.write.1.tlog

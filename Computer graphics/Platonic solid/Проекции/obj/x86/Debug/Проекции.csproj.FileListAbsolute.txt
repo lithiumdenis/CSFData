@@ -1,0 +1,126 @@
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\bin\Debug\Проекции.exe
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\bin\Debug\Проекции.pdb
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\Проекции.exe
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\Проекции.pdb
+D:\Документы\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\Проекции.FormTools.resources
+D:\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\Проекции.exe
+D:\C#\Book\Ch12 GDI\Проекции\Проекции\obj\x86\Debug\Проекции.pdb
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.exe
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.pdb
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\bin\Debug\Проекции.exe
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\bin\Debug\Проекции.pdb
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.FormTools.resources
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Компьютерная графика\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.exe
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.pdb
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\bin\Debug\Проекции.exe
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\bin\Debug\Проекции.pdb
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.FormTools.resources
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Компьютерная графика (ИС С#)\Лекция 3 А\Проекции\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v2\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v4 without v3\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v5\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v6\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Dropbox\ВГУ ФКН\Компьютерная геометрия\!!my Компьютерная графика\Проекциия v6 - final\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v7\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 проба икосаэдра\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\obj\x86\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\obj\x86\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\bin\Debug\Проекции.exe
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\bin\Debug\Проекции.pdb
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\obj\x86\Debug\Проекции.FormMain.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\obj\x86\Debug\Проекции.Properties.Resources.resources
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lithiumdenis\Desktop\Проекциия v8 +икосаэдр\Проекции\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Проекции v8\Проекции\obj\x86\Debug\Проекции.exe
+G:\Проекции v8\Проекции\obj\x86\Debug\Проекции.pdb
+L:\Лекции\2 Курс\Графика (МКН)\2013\Платоновы тела (Суходолов Д.М.)\Проекции\obj\x86\Debug\Проекции.exe
+L:\Лекции\2 Курс\Графика (МКН)\2013\Платоновы тела (Суходолов Д.М.)\Проекции\obj\x86\Debug\Проекции.pdb
