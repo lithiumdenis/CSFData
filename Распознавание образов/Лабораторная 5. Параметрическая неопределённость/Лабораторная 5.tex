@@ -1,0 +1,121 @@
+\documentclass[10pt]{article} % Документ принадлежит классу article, а также будет печататься в 12 пунктов.
+\usepackage{array} % Для титульника
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc} % Включаем поддержку UTF8
+\usepackage[russian]{babel}  % Включаем пакет для поддержки русского языка
+\usepackage[left=2cm,right=2cm, top=2cm,bottom=2cm,bindingoffset=0cm]{geometry} % Отступы по краям страницы
+\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float} % Математические штуки
+\usepackage{cmap} % чтобы работал поиск по PDF
+\usepackage{graphicx} % для вставки картинок
+\usepackage{epstopdf} 	
+
+\usepackage{wrapfig} % Обтектание картинок текстом
+\usepackage{caption}
+\usepackage{subcaption}
+ 
+%  для гиперссылок
+\usepackage{xcolor}
+\usepackage{hyperref}
+\definecolor{linkcolor}{HTML}{191970} % цвет ссылок
+\definecolor{urlcolor}{HTML}{191970} % цвет гиперссылок
+\hypersetup{pdfstartview=FitH,  linkcolor=linkcolor,urlcolor=urlcolor, colorlinks=true}
+
+\usepackage{pscyr} % Нормальные шрифты
+\usepackage{setspace} % Для отступов между строк
+%Это для формирования листингов
+%%%%%%%%%%%%%%%%%%%%%%%%Листинги на MATLAB
+\usepackage{listings}
+\usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
+\definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
+\definecolor{mylilas}{RGB}{170,55,241}
+
+\lstset{language=Matlab,
+	breaklines=true,%
+	morekeywords={matlab2tikz},
+	keywordstyle=\color{blue},%
+	morekeywords=[2]{1}, keywordstyle=[2]{\color{black}},
+	identifierstyle=\color{black},%
+	stringstyle=\color{mylilas},
+	commentstyle=\color{mygreen},%
+	showstringspaces=false,%without this there will be a symbol in the places where there is a space
+	numbers=left,%
+	numberstyle={\tiny \color{black}},% size of the numbers
+	numbersep=9pt, % this defines how far the numbers are from the text
+	emph=[1]{for,end,break},emphstyle=[1]\color{blue}, %some words to emphasise
+	inputencoding=cp1251
+	%emph=[2]{word1,word2}, emphstyle=[2]{style},    
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document} % Начало документа
+
+\title{{\large Распознавание образов. Лабораторная работа №5.} \\
+	\textbf{\textquotedblleft Распознавание образов в условиях параметрической неопределенности и обучения с учителем\textquotedblright}.\\
+	{\large Вариант 9}
+	}
+\date{}
+\author{\textit{Выполнил}: студент 4 курса, группы 6.1 \\
+	Суходолов Денис}
+        
+\maketitle
+
+\begin{spacing}{1} % Для отступов между строк
+\section*{Цель работы}
+Синтезировать алгоритмы распознавания  образов, описываемых
+гауссовскими распределениями с неизвестными параметрами. Оценить
+неизвестные параметры распределений на основе объектов обучающих
+выборок методом максимального правдоподобия и максимума апостериорной
+вероятности. Исследовать синтезированные алгоритмы распознавания с точки
+зрения ожидаемых потерь и ошибок в зависимости от объема обучающей
+выборки.
+\section*{Исходные данные}
+\textbf{Значения параметров:}
+$$ m_1\;=\;[0\;-1\;\;\;\;2],\;m_2\;=\;[2\;\;2\;\;1],\;C\;=\;[4\;-1\;-1;\;-1\;\;\;4\;-1;-1\;-1\;\;\;\;4].$$
+\textbf{Априорные вероятности гипотез:}
+~\\
+\begin{tabular}{| l | c | c |}
+	\hline			
+	Случай & $p(w_1)$ & $p(w_2)$ \\
+	\hline	
+	$p(w_1) > p(w_2)$ & 0.8 & 0.2 \\
+	\hline	
+	$p(w_1) = p(w_2)$ & 0.5 & 0.5 \\
+	\hline  
+	$p(w_1) < p(w_2)$ & 0.2 & 0.8 \\
+	\hline  
+\end{tabular}
+~\\
+\section*{Код для оценок неизвестных параметров (МП и МАВ)}
+\lstinputlisting[basicstyle=\ttfamily\footnotesize ]{param.m} 
+\section*{Код расчёта разделяющих функций и вероятностей ошибок распознавания}
+\lstinputlisting[basicstyle=\ttfamily\footnotesize ]{param2.m} 
+\section*{Графики  значений  элементов  теоретической  и экспериментальной матриц вероятностей ошибок}
+\begin{figure}[h]
+	\centering
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=1.0\linewidth]{1.eps}
+		\caption{$p(w_1) > p(w_2)$}
+		%\label{fig:sub1}
+	\end{subfigure}%
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=1.0\linewidth]{2.eps}
+		\caption{$p(w_1) = p(w_2)$}
+		%\label{fig:sub2}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=1.0\linewidth]{3.eps}
+		\caption{$p(w_1) < p(w_2)$}
+		%\label{fig:sub2}
+	\end{subfigure}
+	%\caption{Графики значений элементов теоретической и экспериментальной матриц вероятностей ошибок}
+	%\label{fig:test}
+\end{figure}
+~\\
+
+\end{spacing}
+\end{document}
