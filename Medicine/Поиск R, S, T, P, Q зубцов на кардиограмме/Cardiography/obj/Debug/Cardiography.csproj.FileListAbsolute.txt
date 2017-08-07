@@ -1,0 +1,42 @@
+C:\Users\1\Desktop\Cardiography\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Desktop\Cardiography\Cardiography\bin\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography\Cardiography\bin\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.FormCardio.resources
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.Properties.Resources.resources
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\bin\Debug\Cardiography.exe
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\bin\Debug\Cardiography.pdb
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.FormCardio.resources
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\bin\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\bin\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.FormCardio.resources
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.Properties.Resources.resources
+C:\Users\1\Desktop\Cardiography - R finder\Cardiography\obj\Debug\Cardiography.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\bin\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\bin\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\obj\Debug\Cardiography.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\obj\Debug\Cardiography.FormCardio.resources
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\obj\Debug\Cardiography.Properties.Resources.resources
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder\Cardiography\obj\Debug\Cardiography.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder - final\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder - final\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography - R, S, T, P, Q finder - final\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Dropbox\University\ИС в медицине\2 аттестация\Cardiography - R, S, T, P, Q finder - final\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Dropbox\University\ИС в медицине\2 аттестация\Cardiography - R, S, T, P, Q finder - final\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Dropbox\University\ИС в медицине\2 аттестация\Cardiography - R, S, T, P, Q finder - final\Cardiography\obj\Debug\Cardiography.pdb

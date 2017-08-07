@@ -1,0 +1,33 @@
+C:\Users\1\Desktop\Cardiography\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Desktop\Cardiography\Cardiography\bin\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography\Cardiography\bin\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.FormCardio.resources
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.Properties.Resources.resources
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\bin\Debug\Cardiography.exe
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\bin\Debug\Cardiography.pdb
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.FormCardio.resources
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.Properties.Resources.resources
+C:\Users\1\Desktop\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.pdb
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\bin\Debug\Cardiography.exe
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\bin\Debug\Cardiography.pdb
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.FormCardio.resources
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\ИС в медицине\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\University\ИС в медицине\1 аттестация\Cardiography - 50 Hz killer - Final\Cardiography\bin\Debug\Cardiography.exe.config
+C:\Users\1\Dropbox\University\ИС в медицине\1 аттестация\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.exe
+C:\Users\1\Dropbox\University\ИС в медицине\1 аттестация\Cardiography - 50 Hz killer - Final\Cardiography\obj\Debug\Cardiography.pdb

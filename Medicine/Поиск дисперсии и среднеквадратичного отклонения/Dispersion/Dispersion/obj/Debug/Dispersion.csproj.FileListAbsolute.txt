@@ -1,0 +1,13 @@
+C:\Users\1\Desktop\Dispersion\Dispersion\bin\Debug\Dispersion.exe.config
+C:\Users\1\Desktop\Dispersion\Dispersion\bin\Debug\Dispersion.exe
+C:\Users\1\Desktop\Dispersion\Dispersion\bin\Debug\Dispersion.pdb
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\Dispersion.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\Dispersion_MarkupCompile.cache
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\Dispersion.g.resources
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\Dispersion.Properties.Resources.resources
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\Dispersion.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\Dispersion.exe
+C:\Users\1\Desktop\Dispersion\Dispersion\obj\Debug\Dispersion.pdb
