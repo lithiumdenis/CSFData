@@ -1,0 +1,28 @@
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\bin\Debug\Poliomyelitis.exe.config
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\bin\Debug\Poliomyelitis.exe
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\bin\Debug\Poliomyelitis.pdb
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\MainWindow.g.cs
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\App.g.cs
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis_MarkupCompile.cache
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis_MarkupCompile.lref
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\MainWindow.baml
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.g.resources
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.Properties.Resources.resources
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.csproj.GenerateResource.Cache
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.exe
+C:\Users\lithi\Desktop\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.pdb
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\bin\Debug\Poliomyelitis.exe.config
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.exe
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.pdb
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\bin\Debug\Poliomyelitis.exe
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\bin\Debug\Poliomyelitis.pdb
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.csprojResolveAssemblyReference.cache
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\MainWindow.g.cs
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\App.g.cs
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis_MarkupCompile.cache
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis_MarkupCompile.lref
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\MainWindow.baml
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.g.resources
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.Properties.Resources.resources
+C:\Users\lithi\Dropbox\University\[Факультатив] Современные медицинские ИТ\1. Полиомиелит\Poliomyelitis\Poliomyelitis\obj\Debug\Poliomyelitis.csproj.GenerateResource.Cache

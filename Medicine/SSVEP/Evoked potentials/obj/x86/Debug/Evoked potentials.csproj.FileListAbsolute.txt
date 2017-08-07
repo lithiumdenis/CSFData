@@ -1,0 +1,92 @@
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\Denis\Desktop\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials. Метод обычный\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\Denis\Dropbox\ФКН\НКИнт\Аттестация 2\Evoked potentials. Метод обычный\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\Denis\Desktop\Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\Denis\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\!!!\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version 2\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Desktop\!!!!!!!Evoked potentials. Амплитудный анализ - норм version 2\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\ЗВП, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\obj\x86\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\obj\x86\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\bin\Debug\Evoked potentials.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\bin\Debug\Evoked potentials.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\obj\x86\Debug\Evoked potentials.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\obj\x86\Debug\Evoked_potentials.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\obj\x86\Debug\Evoked_potentials.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 2\3. SSVEP, Линейка, +-Фурье - отправка\Evoked potentials\obj\x86\Debug\Evoked potentials.csproj.GenerateResource.Cache

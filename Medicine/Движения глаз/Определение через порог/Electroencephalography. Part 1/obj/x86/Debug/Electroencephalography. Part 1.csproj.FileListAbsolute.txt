@@ -1,0 +1,26 @@
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\bin\Debug\Electroencephalography.Part_1.exe
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\bin\Debug\Electroencephalography.Part_1.pdb
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.Form1.resources
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.Properties.Resources.resources
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography. Part 1.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.exe
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.pdb
+C:\Users\Denis\Desktop\Electroencephalography. Part 1\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography. Part 1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.exe
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.pdb
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\bin\Debug\Electroencephalography.Part_1.exe
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\bin\Debug\Electroencephalography.Part_1.pdb
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography. Part 1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.Form1.resources
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.Properties.Resources.resources
+C:\Users\Denis\Desktop\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography. Part 1.csproj.GenerateResource.Cache
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.exe
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.pdb
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\bin\Debug\Electroencephalography.Part_1.exe
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\bin\Debug\Electroencephalography.Part_1.pdb
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography. Part 1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.Form1.resources
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.Properties.Resources.resources
+C:\Users\Denis\Dropbox\ФКН\Нейрокомпьютерные интерфейсы\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography. Part 1.csproj.GenerateResource.Cache
+F:\Учёба\НКИнт\Аттестация 1\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.exe
+F:\Учёба\НКИнт\Аттестация 1\Electroencephalography. Part 2\Electroencephalography. Part 1\obj\x86\Debug\Electroencephalography.Part_1.pdb

@@ -1,0 +1,26 @@
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\bin\Debug\BinaryHuffman.exe.config
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\bin\Debug\BinaryHuffman.exe
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\bin\Debug\BinaryHuffman.pdb
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\App.g.cs
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman_MarkupCompile.cache
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.g.resources
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.Properties.Resources.resources
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.exe
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.pdb
+C:\Users\1\Desktop\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\bin\Debug\BinaryHuffman.exe.config
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.exe
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.pdb
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\bin\Debug\BinaryHuffman.exe
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\bin\Debug\BinaryHuffman.pdb
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\MainWindow.baml
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\MainWindow.g.cs
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\App.g.cs
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman_MarkupCompile.cache
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.g.resources
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\Теория информации\2 аттестация\BinaryHuffman\BinaryHuffman\obj\Debug\BinaryHuffman.csproj.GenerateResource.Cache

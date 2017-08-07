@@ -1,0 +1,57 @@
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\bin\Debug\Alpha Waves.exe.config
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\bin\Debug\Alpha Waves.exe
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\bin\Debug\Alpha Waves.pdb
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\obj\Debug\Alpha_Waves.Form1.resources
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\obj\Debug\Alpha_Waves.Properties.Resources.resources
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.exe
+C:\Users\1\Desktop\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\bin\Debug\Alpha Waves.exe.config
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\bin\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\bin\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\obj\Debug\Alpha_Waves.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\obj\Debug\Alpha_Waves.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves\Alpha Waves\obj\Debug\Alpha Waves.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\bin\Debug\Alpha Waves.exe.config
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\obj\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\obj\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\bin\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\bin\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\obj\Debug\Alpha Waves.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\obj\Debug\Alpha_Waves.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\obj\Debug\Alpha_Waves.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2 - Kill Library\Alpha Waves\obj\Debug\Alpha Waves.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\bin\Debug\Alpha Waves.exe.config
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\obj\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\obj\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\bin\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\bin\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\obj\Debug\Alpha Waves.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\obj\Debug\Alpha_Waves.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\obj\Debug\Alpha_Waves.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves 2. Like a book. Offline\Alpha Waves\obj\Debug\Alpha Waves.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\bin\Debug\Alpha Waves.exe.config
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\bin\Debug\Alpha Waves.exe
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\bin\Debug\Alpha Waves.pdb
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha_Waves.Form1.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha_Waves.Properties.Resources.resources
+C:\Users\1\Dropbox\ФКН\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.csproj.GenerateResource.Cache
+F:\Учёба\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\bin\Debug\Alpha Waves.exe.config
+F:\Учёба\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.exe
+F:\Учёба\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.pdb
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\bin\Debug\Alpha Waves.exe.config
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.exe
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.pdb
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\bin\Debug\Alpha Waves.exe
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\bin\Debug\Alpha Waves.pdb
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.csprojResolveAssemblyReference.cache
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha_Waves.Form1.resources
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha_Waves.Properties.Resources.resources
+F:\Учёба\[Бакалавриат ФКН] 3 курс\НКИнт\Аттестация 3\Alpha Waves. v2.0\Alpha Waves\obj\Debug\Alpha Waves.csproj.GenerateResource.Cache

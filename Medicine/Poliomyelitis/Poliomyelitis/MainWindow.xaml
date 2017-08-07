@@ -1,0 +1,64 @@
+﻿<Window x:Class="Poliomyelitis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Poliomyelitis"
+        mc:Ignorable="d"
+        Title="Полиомиелит" Height="761.927" Width="1475.175" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,0.2,8.6">
+        <Button x:Name="buttonStart" Content="Построить" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Width="329" Click="buttonStart_Click" Height="25"/>
+        <ListBox x:Name="listBoxComp" HorizontalAlignment="Left" Height="606" Margin="9,107,0,0" VerticalAlignment="Top" Width="330"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="772,303,0,0" VerticalAlignment="Top" Width="62"/>
+        <Label x:Name="label1" Content="-" HorizontalAlignment="Left" Margin="790,303,0,0" VerticalAlignment="Top" Width="27" FontSize="24"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="956,107,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="772,49,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="589,107,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="1069,208,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="467,208,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="1069,373,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="467,373,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="772,524,0,0" VerticalAlignment="Top" Width="62"/>
+        <Ellipse Fill="AliceBlue" Stroke="Black" HorizontalAlignment="Left" Height="59" Margin="956,485,0,0" VerticalAlignment="Top" Width="62"/>
+        <Line X1="800" Y1="303" X2="800" Y2="110" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="800" Y1="523" X2="800" Y2="360" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="530" Y1="403" X2="770" Y2="330" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="830" Y1="320" X2="1070" Y2="230" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="833" Y1="340" X2="1070" Y2="400" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="530" Y1="240" X2="775" Y2="320" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="650" Y1="150" X2="790" Y2="306" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="820" Y1="360" X2="970" Y2="490" Stroke="Black" StrokeThickness="2"/>
+        <Rectangle HorizontalAlignment="Left" Height="2" Margin="788,232,0,0" Stroke="Black" StrokeThickness="2" VerticalAlignment="Top" Width="205" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-46.342"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Label x:Name="label2" Content="-" HorizontalAlignment="Left" Margin="407,436,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label3" Content="-" HorizontalAlignment="Left" Margin="375,259,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label4" Content="-" HorizontalAlignment="Left" Margin="552,66,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label5" Content="-" HorizontalAlignment="Left" Margin="758,10,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label6" Content="-" HorizontalAlignment="Left" Margin="989,66,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label7" Content="-" HorizontalAlignment="Left" Margin="1149,226,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label8" Content="-" HorizontalAlignment="Left" Margin="1149,393,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label9" Content="-" HorizontalAlignment="Left" Margin="1003,549,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label10" Content="-" HorizontalAlignment="Left" Margin="779,588,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="10,31,0,0" VerticalAlignment="Top" Width="329" SelectedIndex="0">
+            <ComboBoxItem Content="0"/>
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+            <ComboBoxItem Content="8"/>
+            <ComboBoxItem Content="9"/>
+        </ComboBox>
+        <Label x:Name="label" Content="В центре образец №" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
