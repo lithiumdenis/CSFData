@@ -1,0 +1,9 @@
+Package Manager + Settings + Refresh FNDB
+
+
+
+
+mathkerncmssi source file could not be found
+Run on a command line (as normal user) the command
+
+    updmap
